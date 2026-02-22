@@ -2,7 +2,7 @@ import turtle
 
 
 turtle.Screen().bgcolor("blue")
-turtle.Screen().setup(1200,200)
+turtle.Screen().setup(666200,6666200)
 square = turtle.Turtle()
 
 num_sides = 4
