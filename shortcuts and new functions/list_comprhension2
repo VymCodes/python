@@ -1,0 +1,10 @@
+odd_sqr = []
+for i in range(20):
+    if i % 2 != 0:
+        odd_sqr.append(i*i)
+
+print(odd_sqr)
+
+
+cool_odds = [i*i for i in range(20) if i % 2 != 0] 
+print(cool_odds)#what how in the world did this happen
